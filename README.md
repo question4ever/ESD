@@ -1,2 +1,4 @@
 # ESD
-Embedded System Design 
+Embedded System Design using the Altera DE1-SOC 
+
+Collection of labs from ESD 
